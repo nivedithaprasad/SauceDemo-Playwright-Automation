@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+auth/auth_state.json
+screenshots/
+reports/
