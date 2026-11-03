@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sauce Demo – Playwright + Pytest (POM) Framework
 
 ## Setup
@@ -28,3 +29,7 @@ pytest tests/test_05_invalid_login_fails.py   # single test
 - `auth_state` (session) – logs in once, saves cookies/localStorage
 - `logged_in_page` – new context loaded with saved session, already on Products page
 - `guest_page` – clean, logged-out page on the login screen
+=======
+# SauceDemo-Playwright-Automation
+Python Playwright Pytest Automation Framework
+>>>>>>> 95bdb08a26c032db2a732a94981d0f9061caf2ee
